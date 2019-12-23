@@ -1,3 +1,5 @@
+**注意: 该仓库已迁移到这儿 [win32-api]**
+
 # win32-def
 Definitions of Windows Date Types for [node-ffi](https://github.com/node-ffi/node-ffi), [node-ffi-napi](https://github.com/node-ffi-napi/node-ffi-napi)
 
@@ -132,3 +134,6 @@ knl32.GetModuleHandleExW(0, null, hInstance)
 ### Languages
 - [English](README.md)
 - [中文](README.zh-CN.md)
+
+
+[win32-api]: https://github.com/waitingsong/node-win32-api/
